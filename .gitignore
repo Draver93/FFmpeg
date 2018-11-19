@@ -24,6 +24,7 @@
 *_g
 \#*
 .\#*
+Build/
 /.config
 /.version
 /ffmpeg
